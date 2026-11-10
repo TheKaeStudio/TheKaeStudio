@@ -2,14 +2,14 @@
 
 # Hi, I'm Ali Erdem
 
-**Founder of The Kae Studio · UI/UX designer & full-stack developer · Belgium**
+**UI/UX designer & full-stack developer**
 
-<a href="https://kae.studio">
+<a href="https://kae-studio.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=Fraunces&size=22&duration=2800&pause=900&color=4A43D9&center=true&vCenter=true&width=560&lines=I+design+interfaces+people+enjoy+using;I+build+websites%2C+mobile+apps+and+software;I+edit+videos+and+craft+brand+identities" alt="Typing intro" />
 </a>
 
 <p>
-  <a href="https://kae.studio"><img src="https://img.shields.io/badge/Portfolio-kae.studio-4a43d9?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://kae-studio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-kae.studio-4a43d9?style=for-the-badge" alt="Portfolio" /></a>
   <a href="mailto:kocakalierdem@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20talk-0b0b10?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -20,7 +20,7 @@
 ## About me
 
 - Founder of **The Kae Studio**, a one-person digital studio: UI/UX design, web & mobile development, video editing and graphic design.
-- Full-stack developer & UI/UX designer at **mk-it** (Verviers) since 2023.
+- Full-stack developer & UI/UX designer at **Mk-IT** (Verviers) since 2023.
 - Former full-stack Angular intern at **NSI** (Awans).
 - Third-year Bachelor's student in Computer Science, Application Development, at **HEPL** (Seraing).
 - I care about the details: clean interfaces, fast products and code that is easy to maintain.
@@ -60,7 +60,7 @@
 | **Umashi · UA Rénov · Outside Park** | Packaging, logos & brand identities | |
 | **Sami Madeo · Débouch24 · mk-it** | Video editing for YouTube & Instagram | [YouTube](https://www.youtube.com/@SamiMadeo) |
 
-Full case studies on **[kae.studio](https://kae.studio)**.
+Full case studies on **[kae-studio](https://kae-studio.vercel.app/)**.
 
 ## GitHub stats
 
@@ -75,7 +75,7 @@ Full case studies on **[kae.studio](https://kae.studio)**.
 
 ## Let's work together
 
-Got a project in mind? A website, an app, a brand or a video: **[kocakalierdem@gmail.com](mailto:kocakalierdem@gmail.com)** or **[kae.studio](https://kae.studio)**.
+Got a project in mind? A website, an app, a brand or a video: **[kocakalierdem@gmail.com](mailto:kocakalierdem@gmail.com)** or **[kae-studio](https://kae-studio.vercel.app/)**.
 
 <div align="center">
 <sub>The Kae Studio · Design & Development · Belgium</sub>
